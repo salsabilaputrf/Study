@@ -16,7 +16,7 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);
     background: #5cc2bd;
-    background-image: linear-gradient(to bottom right, #f8e149, #56f7bc);
+    background: linear-gradient(to bottom right, #f8e149, #56f7bc);
     text-align: center;
     box-shadow: 10px 10px 5px rgb(111, 139, 96);
   }
